@@ -234,6 +234,10 @@ h2.titles{
     align-items: center;
     text-align: center;
 }
+.project-container .card-container .card .content .contentBx h3{
+    color: black;
+    text-transform:none;
+}
 
 .gap{
     padding: 7vh;
