@@ -1,4 +1,4 @@
-*{ 
+*{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -263,7 +263,7 @@ footer .container{
     position: relative;
     display: flex;
 }
-.content{
+footer .content{
     width: 33%;
     /* float: left; */
     color: #fff;
@@ -271,19 +271,19 @@ footer .container{
 
     /* margin-left: px; */
 }
-.content ul{
+footer .content ul{
     list-style: none;
     padding: 0;
 }
-.content h2{
+footer .content h2{
     margin-bottom: 15px;
     font-size: 18px;
     text-transform: uppercase;
     padding-top: 68px;
     
 }
-.content ul li,
-.content p{
+footer .content ul li,
+footer .content p{
     font-size: 14px;
     line-height: 24px;
     color: #a9b3bb;
