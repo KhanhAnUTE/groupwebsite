@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: 'Noto', sans-serif;
 }
+html{
+    scroll-behavior: smooth;
+}
 
 a{
     color: white;
